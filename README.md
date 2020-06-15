@@ -1,6 +1,6 @@
 # ARPrivacyZones
 
-This package is part of a larger project that allows you to create a privacy zone (or "no-go" region) that a turtlebot won't drive through. 
+This package is part of a larger project that allows you to create a privacy zone (or "no-go" region) that a turtlebot won't drive through. It was made using Google's ARCore sdk for Unity and built on top of Google's HelloAR code. 
 
 There are three interfaces available to create the privacy zone:
 1. **Physical**: Four real, orange cones are placed on the ground to mark the corners of the no-go region.
